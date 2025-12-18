@@ -21,7 +21,7 @@ Proyek ini bertujuan membangun sistem **Deteksi Anomali Otomatis** menggunakan p
 ## 📂 Dataset
 Dataset yang digunakan bersumber dari **Numenta Anomaly Benchmark (NAB)**, spesifiknya pada kasus **Temperature Sensor Data** dari mesin internal.
 * **Sumber:** [Numenta GitHub Repository](https://github.com/numenta/NAB)
-* **File:** `machine_temperature_system_failure.csv`
+* **File:** (./data/machine_temperature_system_failure.csv)
 * **Karakteristik:** Data *time-series* dengan label anomali akibat kegagalan sistem pendingin.
 
 ## 🛠️ Arsitektur Model
@@ -47,18 +47,6 @@ Model dilatih menggunakan mekanisme **Early Stopping** (berhenti di Epoch 13) un
 * **Hyperparameter Tuning:** Eksperimen jumlah unit LSTM (30 vs 60).
 * **TFLite Support:** Model berhasil diekspor ke format `.tflite` (Lightweight) sehingga siap diimplementasikan pada perangkat *Edge IoT* (Raspberry Pi/ESP32).
 
-## 🔧 Cara Menjalankan (How to Run)
-1.  **Clone Repository:**
-    ```bash
-    git clone [https://github.com/USERNAME_ANDA/NAMA_REPO.git](https://github.com/USERNAME_ANDA/NAMA_REPO.git)
-    ```
-2.  **Buka Notebook:**
-    Jalankan file `notebook/UAS_Deep_Learning_CNN_LSTM.ipynb` menggunakan **Google Colab** atau **Jupyter Notebook**.
-3.  **Install Dependencies:**
-    Pastikan library berikut terinstall:
-    ```python
-    pip install tensorflow pandas numpy scikit-learn matplotlib
-    ```
 
 ## 📄 Dokumentasi Lengkap
 * [Laporan Tugas Akhir (PDF)](./docs/Laporan_Tugas_Akhir.pdf)
