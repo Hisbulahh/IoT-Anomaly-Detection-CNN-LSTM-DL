@@ -8,6 +8,9 @@
 * **Nama:** M Hisbulah Endima T
 * **NPM:** G1A022034
 * **Program Studi:** Informatika, Universitas Bengkulu
+## 🎥 Presentasi Video
+Tonton Presentasi ini di YouTube:
+[Klik di sini untuk menonton Video Demo](https://youtu.be/mkppKqAivRQ?si=zvLbERDRevkSTyaT))
 
 ---
 
