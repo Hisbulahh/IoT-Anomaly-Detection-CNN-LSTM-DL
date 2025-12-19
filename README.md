@@ -1,8 +1,5 @@
 # Pengembangan Sistem Deteksi Anomali pada Data Sensor IoT Menggunakan Arsitektur Hybrid CNN-LSTM
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 **Tugas Akhir Mata Kuliah Deep Learning**
 * **Nama:** M Hisbulah Endima T
